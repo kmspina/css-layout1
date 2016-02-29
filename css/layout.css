@@ -20,6 +20,7 @@ body {
 }
 
 .box img {
+  border: 10px dashed #3f0;
 }
 
 .box a.read-more {
