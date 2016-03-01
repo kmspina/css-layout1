@@ -21,6 +21,7 @@ body {
 
 .box img {
   border: 10px dashed #3f0;
+  position: relative;
 }
 
 .box a.read-more {
