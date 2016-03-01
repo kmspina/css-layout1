@@ -13,9 +13,8 @@ body {
 }
 
 .box {
-  width: 400px;
+  width: 375px;
   float: left;
-  top:30px;
   position: fixed;
 }
 
