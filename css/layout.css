@@ -5,6 +5,7 @@ body {
 }
 
 .heading {
+  top:10px;
   position: fixed;
 }
 
