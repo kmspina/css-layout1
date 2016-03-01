@@ -2,12 +2,14 @@
 
 
 body {
+  padding-top:80px;
 }
 
 .heading {
   top:0px;
   left:0px;
   position:fixed;
+  padding:0 20px;
   width:100%;
   border-bottom:2px solid black;
 }
@@ -25,6 +27,7 @@ body {
 }
 
 .box:last-child {
+  margin-right:0;
 }
 
 .box h2 {
