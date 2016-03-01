@@ -13,11 +13,11 @@ body {
 }
 
 .box {
-  width: 500px;
+  width: 400px;
   float: left;
   top:30px;
   left: 50px;
-  position: relative;
+  position: absolute;
 }
 
 .box:last-child {
