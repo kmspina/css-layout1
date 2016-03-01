@@ -13,10 +13,9 @@ body {
 }
 
 .box {
-  margin: 50px;
-  padding: 50px;
   width: 400px;
   float: left;
+  position: relative;
 }
 
 .box:last-child {
