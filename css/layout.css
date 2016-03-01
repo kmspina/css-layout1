@@ -36,9 +36,9 @@ body {
 }
 
 .footer {
-  bottom: 0px;
+  bottom:0px;
   left:0px;
-  position: fixed
-  width:100%
-  border-top:2px solid black;
+  position: fixed;
+  width:100%;
+  border-top: 2px solid black;
 }
