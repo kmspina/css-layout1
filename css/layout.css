@@ -18,10 +18,10 @@ body {
 }
 
 .box h2 {
-  border: 10px solid #3f0;
 }
 
 .box img {
+    border: 10px solid #3f0;
 }
 
 .box a.read-more {
