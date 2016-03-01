@@ -7,9 +7,9 @@ body {
 .heading {
   top:0px;
   left:0px;
-  position: fixed;
+  position:fixed;
   width:100%;
-  border-bottom: 2px solid black;
+  border-bottom:2px solid black;
 }
 
 .heading h1 {
