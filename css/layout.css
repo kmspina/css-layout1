@@ -5,9 +5,10 @@ body {
 }
 
 .heading {
-  top:10px;
+  top:0px;
+  left:0px;
   position: fixed
-  z-index: 1000;
+  width:100%;
 }
 
 .heading h1 {
@@ -34,6 +35,8 @@ body {
 }
 
 .footer {
-  bottom: 10px;
-  position: fixed;
+  bottom: 0px;
+  left:0px;
+  position: fixed
+  width:100%;
 }
