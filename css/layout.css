@@ -16,7 +16,7 @@ body {
   width: 400px;
   float: left;
   top:30px;
-  position: absolute;
+  position: fixed;
 }
 
 .box:last-child {
