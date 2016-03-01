@@ -7,8 +7,8 @@ body {
 .heading {
   top:0px;
   left:0px;
-  position: fixed
-  width:100%
+  position: fixed;
+  width:100%;
   border-bottom: 2px solid black;
 }
 
