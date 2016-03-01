@@ -12,6 +12,7 @@ body {
 }
 
 .box {
+  float: left;
 }
 
 .box:last-child {
