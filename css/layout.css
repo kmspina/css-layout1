@@ -29,5 +29,6 @@ body {
 }
 
 .footer {
+  bottom: 10px;
   position: fixed;
 }
